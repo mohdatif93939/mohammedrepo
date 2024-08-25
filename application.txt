@@ -18,6 +18,8 @@ print('The solution are {0} and {1}'.format(sol1,sol2))
 
 
 
+modification done feature 203
+
 feature202 branch added 25 /08/2024
 
 a = 1
@@ -27,8 +29,12 @@ c = 6
 # calculate the discriminant
 d = (b**2) - (4*a*c)
 
+
 # find two solutions
 sol1 = (-b-cmath.sqrt(d))/(2*a)
 sol2 = (-b+cmath.sqrt(d))/(2*a)
 
+
+
+ 
 print('The solution are {0} and {1}'.format(sol1,sol2))
